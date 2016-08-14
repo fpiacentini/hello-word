@@ -1,2 +1,2 @@
 # hello-word
-wrote hallo word
+write hallo word
