@@ -1,3 +1,3 @@
-# hello-word
-write hallo word
+# hello-world
+write hallo world
     this is a branch
